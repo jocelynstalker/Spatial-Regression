@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 *.png
+*.jpg
 Ex_12.nb.html
 Exercise_12.Rproj
 *.Rmd
